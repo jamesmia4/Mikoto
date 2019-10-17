@@ -27,7 +27,7 @@ namespace ConsoleApp1
           // while timer = 3
           int count = 0;
           while (true)
-          {
+          { 
               if (count >= 3)
               {
                   break;
