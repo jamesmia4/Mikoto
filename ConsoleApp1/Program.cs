@@ -17,6 +17,7 @@ namespace ConsoleApp1
                 Console.WriteLine($"第{i}次結果={randomNum}");
             }
 
+
             
           // for times = 3
           /*for (int i = 0; i < 3; i++)
